@@ -1,4 +1,4 @@
-# puppeteer
+# Puppeteer
 
 Que es Puppeter?
 
@@ -14,12 +14,20 @@ Que es Puppeter?
   
   # Chalk -Terminal string styling done right
    $ npm install chalk
-   
+  
+  # Lighthouse 
+    By default, Lighthouse writes the report to an HTML file. You can control the output format by passing flags.
+   $ npm install lighthouse@next.
+  
   # Run examples 
     $ node name_file.js
 
 # Additional Links
-
+    COMMITCONF2018: Cuando los tests conocieron a Puppeteer - José Manuel García
+    https://www.youtube.com/watch?v=eTaN7blxJyI
+    https://es.slideshare.net/sema_hkd/commit-conf-2018-testing-qa-y-puppeteer
+    
+    
     https://github.com/GoogleChrome/puppeteer/blob/master/docs/api.md
     https://remarkablemark.org/blog/2018/04/15/puppeteer-without-async-await/
 
@@ -34,8 +42,7 @@ Que es Puppeter?
     https://www.youtube.com/watch?v=MbnATLCuKI4
     https://www.deepcrawl.com/blog/events/google-io-2019-recap-key-takeaways-for-seos/
 
-    COMMITCONF2018: Cuando los tests conocieron a Puppeteer - José Manuel García
-
-    https://www.youtube.com/watch?v=eTaN7blxJyI
-    https://es.slideshare.net/sema_hkd/commit-conf-2018-testing-qa-y-puppeteer
+    
+    Announcing Lighthouse 3.0
+    https://developers.google.com/web/updates/2018/05/lighthouse3
 
