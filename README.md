@@ -10,10 +10,13 @@ Que es Puppeter?
 
 # Install
   # Puppetter with npm
-  $ npm install puppeteer
+   $ npm install puppeteer
   
-  #Chalk -Terminal string styling done right
-  $ npm install chalk
+  # Chalk -Terminal string styling done right
+   $ npm install chalk
+   
+  # Run examples 
+    $ node name_file.js
 
 # Additional Links
 
